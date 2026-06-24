@@ -36,7 +36,7 @@
 
                     {{-- Subtitle --}}
                     <p class="text-base leading-relaxed max-w-sm" style="color: #929AAB;">
-                        We craft digital experiences that drive growth — from bold brand identities to powerful web solutions built for impact.
+                        We build what Drives Growth and Automate what Slows you Down.
                     </p>
 
                     {{-- CTAs --}}
